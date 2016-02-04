@@ -1,0 +1,16 @@
+---
+name: Middleman Casper
+generator: middleman
+url: https://github.com/danielbayerlein/middleman-casper
+
+readme: README.md
+
+license: MIT
+license_url: https://github.com/danielbayerlein/middleman-casper#license
+
+author_name: Daniel Bayerlein
+author_url: https://github.com/danielbayerlein
+
+tags:
+  - Ghost
+  - Casper

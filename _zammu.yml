@@ -1,7 +1,7 @@
 ---
 name: Middleman Casper
 generator: middleman
-url: https://github.com/danielbayerlein/middleman-casper
+canonical_url: https://github.com/danielbayerlein/middleman-casper
 
 readme: README.md
 
